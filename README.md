@@ -1,4 +1,4 @@
-# Scheduler Optimizer
+# Scheduler Optimization
 
 Computes the critical path of the scheduled jobs. Generates statistics and visualizations.
 
