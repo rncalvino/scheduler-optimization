@@ -10,6 +10,7 @@ Assumptions: This project model jobs/tasks using random variables of the normal 
  - CMake
  - Boost C++ 1.67.0 or newer.
  - Graphviz 2.38 libs.
+ - CSV Parser (AriaFallah)
   
 ## Input available formats:
 
